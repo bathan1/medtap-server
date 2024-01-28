@@ -1,5 +1,8 @@
-#Medtap Server
-This is the repo for Medtap's FHIR server. We will be using pnpm over npm because it is better (lol). To install pnpm:
+# Medtap Server
+This is the repo for Medtap's FHIR server.
+
+## Installation steps
+We will be using pnpm over npm because it is better (lol). To install pnpm:
 1. First ensure you have [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed. 
 2. Once NodeJS and npm have been installed onto your systen, run `npm install -g pnpm`. See [pnpm](https://pnpm.io/installation) for details.
 
